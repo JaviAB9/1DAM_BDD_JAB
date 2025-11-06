@@ -10,8 +10,8 @@ CREATE TABLE proveedores (
 );
 
 CREATE TABLE categoria (
-	codigo INT PRIMARY KEY AUTO_INCREMENT,
-    nombre VARCHAR (100) NOT NULL
+	codigo INT PRIMARY KEY AUTO_INCREMENT,		/* para cuando el codigo te pide un codigo */
+    nombre VARCHAR (100) NOT NULL				/* siempre tiene que tener un valor */
 );
 
 CREATE TABLE pieza (
