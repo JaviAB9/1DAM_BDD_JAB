@@ -12,8 +12,9 @@ CREATE TABLE libro (
 	isbn VARCHAR (10) PRIMARY KEY,
     titulo VARCHAR (100) NOT NULL, 			/* Cuando es "null" tienes que meterle algo al dato */
     ano DATE NOT NULL,
-    autor INT,
+    autor INT,												/* - REFERENCES: Hace referencia a ... */
     FOREIGN KEY (autor) REFERENCES autor (cod_autor)		/* - DELETE CASCADE: Se elimina el dato principal y tambien los datos secundarios en otras tablas */
+
 );
 
 CREATE TABLE socio (
