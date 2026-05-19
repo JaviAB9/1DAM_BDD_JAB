@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias LaLiga</title>
+    <link>https://www.marca.com/</link>
+    <description />
+    <language>es</language>
+    <pubDate>Mon, 18 May 2026 08:06:39 GMT</pubDate>
+    <lastBuildDate>Tue, 19 May 2026 12:35:42 GMT</lastBuildDate>
+    <category>Futbol</category>
+    <generator>Absolute RSS Editor</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>El Atlético adopta el 'modelo inglés' para el Metropolitano</title>
+      <link>https://www.marca.com/futbol/atletico/2026/05/19/atletico-adopta-modelo-ingles-metropolitano.html</link>
+      <description>El club busca que ningún aficionado se quede sin animar a los rojiblancos</description>
+      <guid isPermaLink="false">EBE785F1-1931-4AFC-B4C3-2170966F9FFF</guid>
+      <pubDate>Tue, 19 May 2026 12:30:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endrick loa a Dios al saber que va al Mundial y Ancelotti confiesa que "la decisión" la tomó antes del almuerzo</title>
+      <link>https://www.marca.com/futbol/mundial/2026/05/19/endrick-loa-dios-mundial-ancelotti-confiesa-decision-tomo-almuerzo.html</link>
+      <description>Endrick vivió la publicación de la lista de Ancelotti para jugar el Mundial con Brasil junto a su esposa Gabriely Miranda: "Ahora es el momento de representar a nuestra nación"</description>
+      <category>Futbol</category>
+      <guid isPermaLink="false">9E2A4F62-7B33-4E97-8B7A-B463FD7F596F</guid>
+      <pubDate>Tue, 19 May 2026 12:30:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Así fue la 'llamada de la paz' de Ancelotti a Neymar y las condiciones para llevárselo al Mundial 2026</title>
+      <link>https://www.marca.com/futbol/mundial/2026/05/19/asi-llamada-paz-ancelotti-neymar-condiciones-llevarselo-mundial-2026.html</link>
+      <description>El italiano contactó con el jugador del Santos cuatro días antes para llevárselo a la cita del verano y le explicó su nuevo rol junto a otras medidas de convivencia</description>
+      <category>Futbol</category>
+      <guid isPermaLink="false">D55D33CF-E6C9-4904-A2B0-187DB7656347</guid>
+      <pubDate>Tue, 19 May 2026 12:29:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Frenazo a Bastoni</title>
+      <link>https://www.marca.com/futbol/barcelona/2026/05/19/frenazo-bastoni.html</link>
+      <description>El Barça va despacio: no hay 'Fair Play', Flick duda y algún defensa tendría que salir antes</description>
+      <category>Futbol</category>
+      <guid isPermaLink="false">0AE8634D-BC42-4057-AC4A-91B187786319</guid>
+      <pubDate>Tue, 19 May 2026 12:24:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Operación "desestabilización": en Inglaterra ven a Mourinho fichando a Rashford para el Real Madrid</title>
+      <link>https://www.marca.com/futbol/real-madrid/2026/05/19/operacion-desestabilizacion-inglaterra-ven-mourinho-fichando-rashford-real-madrid.html</link>
+      <description>"Para hacerse con un buen jugador que conoce y causar desestabilización y algunos problemas al Barcelona"</description>
+      <category>Futbol</category>
+      <guid isPermaLink="false">E4AA223C-AE0C-4E3A-BE3E-B736A028FAFF</guid>
+      <pubDate>Tue, 19 May 2026 12:24:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
